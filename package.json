@@ -2,7 +2,7 @@
   "name": "paste",
   "private": true,
   "version": "0.0.0",
-   "homepage": "https://RahulCodeTiwari.github.io/Paste-App",
+   "homepage": "https://RahulCodeTiwari.github.io/Paste-APP",
   "type": "module",
   "scripts": {
     "dev": "vite",
